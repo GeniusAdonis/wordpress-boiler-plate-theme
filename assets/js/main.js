@@ -1,6 +1,3 @@
-/* eslint-disable no-undef */
-/* eslint-disable func-names */
-// eslint-disable-next-line func-names
 (function($) {
   const helper = {
     // custom helper function for debounce - how to work see https://codepen.io/Hyubert/pen/abZmXjm
